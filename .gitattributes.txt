@@ -1,0 +1,9 @@
+# Handle all text files
+* text=auto
+
+# Prevent line-ending changes for binary files
+*.bin binary
+*.exe binary
+*.png binary
+*.jpg binary
+*.pdf binary
