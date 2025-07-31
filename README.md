@@ -163,7 +163,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 🙋‍♂️ Author
 Parag Kumbhar
-📧 [paragkumbhar02@gmail.com.com]
+📧 [paragkumbhar02@gmail.com]
 🌐 https://github.com/Parag-kumbhar
 
 
